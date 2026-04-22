@@ -7,8 +7,8 @@ Di sini kita belajar memahami pola, klasifikasi, *clustering*, hingga prediksi b
 
 ## Profil Mahasiswa
 
-- **Nama** : Dini Restanti Artamulya  
-- **NIM** : 240411100008
+- **Nama** : Mohammad Waqidi
+- **NIM** : 240411100224
 
 Seorang Mahasiswa Teknik Informatika yang sedang mengampu matakuliah Penambahan Data. <br>
 Siap menambang data dan menemukan insight berharga!
