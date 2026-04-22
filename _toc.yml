@@ -1,0 +1,13 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+chapters:
+- file: memahami-data
+- file: data_understanding
+- file: mengukur_jarak
+- file: mengukur_jarak_iris
+- file: preprocessing
+- file: missing_values_imputation
+- file: uts
